@@ -8,20 +8,20 @@ The frontend is located in the "frontend" directory. It uses Vite, React Router,
 
 ### Backend (SpringBoot)
 1. Set your mongoDB-Atlas URI(backend/src/resources):
-   in application.properties
+         in application.properties
 
 2. Stater Backend server:
-   mvn spring-boot:run
+         mvn spring-boot:run
 
 ### Setup and Run FrontEnd
 1. Navigate to the frontend directory:
-   cd frontend
+         cd frontend
 
 2. Install dependencies (already done if initialized):
-   npm install
+         npm install
 
 3. Run the development server:
-   npm run dev
+         npm run dev
 
 4. Open your browser at localhost(provided port).
 
