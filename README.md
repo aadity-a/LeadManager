@@ -44,4 +44,7 @@ npm run dev
   - View Contact Responses.
   - View Subscribers.
 
+ ### Important! 
+ The project currently does not have any seeded/existing data to display, first connet your MongoDB cluster and insert data in the DB using the Admin panel in order to display it.
+
 
