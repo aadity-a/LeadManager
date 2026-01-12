@@ -1,4 +1,4 @@
-# Project Manager Application
+# Lead Manager Application
 
 This project consists of a ReactJS Frontend and SpringBoot Backend.
 
