@@ -6,7 +6,7 @@ This project consists of a ReactJS Frontend and SpringBoot Backend.
 
 The frontend is located in the "frontend" directory. It uses Vite, React Router, and standard CSS for a sleek, modern UI.
 
-### Backend (SpringBoot)
+### Setup and Run Backend (SpringBoot)
 1. Set your mongoDB-Atlas URI(backend/src/resources):
    in application.properties
 
