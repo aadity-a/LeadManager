@@ -17,7 +17,7 @@ const Navbar = () => {
             <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', height: '80px' }}>
                 <Link to="/" style={{ fontSize: '1.5rem', fontWeight: 'bold', color: 'var(--primary-color)', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
                     <div style={{ width: '32px', height: '32px', background: 'var(--primary-color)', borderRadius: '8px' }}></div>
-                    ProjectManager
+                    LeadManager
                 </Link>
                 <div style={{ display: 'flex', gap: '2rem' }}>
                     <Link to="/" className={`btn ${location.pathname === '/' ? 'btn-primary' : ''}`} style={{ color: location.pathname === '/' ? 'white' : 'inherit' }}>

@@ -98,7 +98,7 @@ const LandingPage = () => {
                                 <div style={{ background: '#EEF2FF', padding: '1rem', borderRadius: '50%', color: 'var(--primary-color)' }}><Mail size={24} /></div>
                                 <div>
                                     <div style={{ fontWeight: 'bold' }}>Email</div>
-                                    <div style={{ color: '#6B7280' }}>contact@projectmanager.com</div>
+                                    <div style={{ color: '#6B7280' }}>contact@leadmanager.com</div>
                                 </div>
                             </div>
                             <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
@@ -160,7 +160,7 @@ const LandingPage = () => {
             {/* Footer */}
             <footer style={{ background: '#1F2937', color: '#9CA3AF', padding: '2rem 0', textAlign: 'center' }}>
                 <div className="container">
-                    <p>&copy; 2024 ProjectManager. All rights reserved.</p>
+                    <p>&copy; 2024 LeadManager. All rights reserved.</p>
                 </div>
             </footer>
         </div>
